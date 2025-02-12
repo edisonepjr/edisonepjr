@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/edisonepjr/edisonepjr/main/Banner.webp" alt="Banner do Edison Junior">
+</p>
 <h1 align="center">👋 Olá, sou Edison Pereira Júnior</h1>
 
 <p align="center">
