@@ -30,7 +30,7 @@
 
 ## 📫 Contato  
 
-📧 **E-mail:** [seu-email@gmail.com](mailto:seu-email@gmail.com)  
+📧 **E-mail:** [edisonpereirajr@hotmail.com](mailto:edisonpereirajr@hotmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/edisonepjr](https://linkedin.com/in/edisonepjr)  
 
 ---
