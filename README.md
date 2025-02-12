@@ -31,7 +31,7 @@
 ## 📫 Contato  
 
 📧 **E-mail:** [edisonpereirajr@hotmail.com](mailto:edisonpereirajr@hotmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/edisonepjr](https://linkedin.com/in/edisonepjr)  
+💼 **LinkedIn:** [Edison Júnior](https://www.linkedin.com/in/edison-junior-46a939232)  
 
 ---
 
