@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá, sou Edison Pereira Júnior</h1>
 
 <p align="center">
-  <strong>Bacharel em Engenharia da Computação | Bacharel em TI | IoT • Cibersegurança • IA</strong>
+  <strong>Engenheiro de Computação | Bacharel em TI | IoT • Cibersegurança • IA</strong>
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 ## 🚀 Sobre mim
 
-🎓 **Bacharel em Engenharia da Computação**  
+🎓 **Engenheiro de Computação**  
 💻 **Bacharel em Tecnologia da Informação com ênfase em IoT**  
 👨‍🏫 **Professor de Tecnologia e Educação Profissional**  
 🔐 **Interesse em Cibersegurança, Hacking Ético e Redes de Computadores**  
 🤖 **Interesse em Inteligência Artificial, IoT e Automação**
 
-Atuo na interseção entre **Tecnologia, Educação e Segurança da Informação**, buscando transformar conhecimento técnico em soluções práticas e projetos aplicáveis.
+Atuo na interseção entre **Tecnologia, Educação e Segurança da Informação**, desenvolvendo projetos e buscando aplicar tecnologia para resolver problemas reais.
 
 ---
 
@@ -71,13 +71,17 @@ Pesquisa sobre o uso de **Inteligência Artificial como ferramenta de apoio ao e
 
 ## 📚 Formação
 
-🎓 **Bacharelado em Engenharia da Computação**
+🎓 **Engenharia da Computação**
 
-🎓 **Bacharelado em Tecnologia da Informação — ênfase em IoT**
+🎓 **Tecnologia da Informação — ênfase em IoT**
 
 📚 **Licenciatura em Matemática**
 
-🔐 **Formação complementar em Cibersegurança, Análise de Dados, Inteligência Artificial e Tecnologias Educacionais**
+🔐 **Formação complementar em Cibersegurança**
+
+📊 **Formação complementar em Análise de Dados**
+
+🤖 **Formação complementar em Inteligência Artificial e Tecnologias Educacionais**
 
 ---
 
